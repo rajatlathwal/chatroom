@@ -1,0 +1,31 @@
+  body{
+	background-color:#afbed6;
+}
+  #main{
+  	height: 500px;
+  	background-color:white;
+  	margin-top:70px;
+  }
+.output{
+	background-color: white;
+	box-shadow: 0px 1px 1px #000;
+	height: 350px;
+	margin-bottom:20px;
+	overflow: scroll;
+	border-radius: 4px;
+	
+}
+ul{
+	list-style-type: none;
+}
+input[type=submit]{
+	width: 100px;
+	box-sizing:border-box;
+	border: 1px solid #6495ed;
+	border-radius: 4px;
+}
+textarea{
+	background-color:#dcdcdc;
+	width: 350px;
+}
+
